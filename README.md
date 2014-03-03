@@ -1,5 +1,5 @@
 KALAFIOR 
 ========
 
-*Bujarski Marcin
-*Gacuta Micha³
+* Bujarski Marcin
+* Gacuta Micha³
