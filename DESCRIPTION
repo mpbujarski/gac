@@ -1,0 +1,14 @@
+Package: gac
+Version: v0
+Date: 2014-03-03
+Title: My First Collection of Functions
+Authors@R: c(person("Marcin", "Bujarski", role = c("aut", "cre"),
+                     email = "Joe.Developer@some.domain.net"),
+              person("Michal", "Gacuta", role = "aut"))
+Author: Marcin Bujarski and Michal Gacuta
+Depends: R (>= 1.8.0)
+Suggests: MASS
+Description: My First Collection of R Functions
+License: GPL (>= 2)
+URL: https://github.com/mpbujarski/gac
+BugReports: https://github.com/mpbujarski/gac
