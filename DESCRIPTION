@@ -3,7 +3,7 @@ Version: 0.1
 Date: 2014-03-03
 Title: My First Collection of Functions
 Authors@R: c(person("Marcin", "Bujarski", role = c("aut", "cre"),
-                     email = "Joe.Developer@some.domain.net"),
+                     email = "bujarskim@student.mini.pw.edu.pl"),
               person("Michal", "Gacuta", role = "aut"))
 Author: Marcin Bujarski and Michal Gacuta
 Depends: R (>= 1.8.0)
