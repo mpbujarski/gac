@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^vignettes/gac-concordance\.tex
+^vignettes/gac\.log
+^vignettes/gac\.synctex.gz
+^vignettes/gac\.tex

@@ -3,4 +3,8 @@
 .RData
 *.Rproj
 gac.Rproj
-
+vignettes/gac-concordance.tex
+vignettes/gac.log
+vignettes/gac.pdf
+vignettes/gac.synctex.gz
+vignettes/gac.tex

@@ -1,0 +1,8 @@
+%\VignetteIndexEntry{Nasz piekny pakiecik}
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+dobry wieczór, idźmy do domu
+\end{document}
