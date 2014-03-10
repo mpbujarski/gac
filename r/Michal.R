@@ -1,3 +1,4 @@
+#' @export
 Michal <- function(x) 
 {
   stopifnot(is.numeric(x))
