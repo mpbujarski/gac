@@ -1,5 +1,5 @@
 Package: gac
-Version: v0
+Version: 0.1
 Date: 2014-03-03
 Title: My First Collection of Functions
 Authors@R: c(person("Marcin", "Bujarski", role = c("aut", "cre"),
